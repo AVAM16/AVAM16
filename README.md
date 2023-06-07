@@ -14,7 +14,7 @@
 ### -Dakar Enjoyer
 
 
-![](https://i.imgur.com/H4QbdeG.gif)
+![](https://i0.wp.com/i.imgur.com/MsVDlj5.gif?resize=696%2C390&ssl=1)
 
 
 ### -Sport Shooter
