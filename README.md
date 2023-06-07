@@ -1,6 +1,11 @@
-### Hi there 👋
+### Boas 👋
 
-
+Made in Portugal
+C Enjoyer
+Trying to learn new stuff.
+Dislike MacOS and IOS.
+Tech-savvy.
+AdBlocker everywhere.
 
 ### -Rally Enjoyer
 ### -Team Toyota
