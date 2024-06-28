@@ -1,6 +1,6 @@
 ## Olá 👋
 #
-###### Just finished my Degree in Computer Science and Engineering at IST
+#### Just finished my Degree in Computer Science and Engineering at IST
 ##### I appreciate programming in C/C++. Python is also a great all-rounder!
 ##### Trying to learn new stuff.
 ##### Learning Rust and C# right now.
