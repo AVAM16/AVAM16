@@ -1,20 +1,14 @@
-## Boas 👋
+## Olá 👋
 #
-#### Made in Portugal
-##### C Enjoyer
+###### Just finished my Degree in Computer Science and Engineering at IST
+##### I appreciate programming in C/C++. Python is also a great all-rounder!
 ##### Trying to learn new stuff.
-##### Dislike MacOS and IOS.
-##### Tech-savvy.
-##### AdBlocker everywhere.
+##### Learning Rust and C# right now.
+##### Improving my frontend skills with React, Astro and Tailwind.
+##### Enjoy being active and practising sports.
+##### Made in Portugal
 #
-#
-### -Rally Enjoyer
-### -Team Toyota
+
+### Rally Enjoyer and Team Toyota
 ![](https://media.giphy.com/media/dBQnOB1RBK2YKSNjN2/giphy-downsized-large.gif)
-![](https://media.giphy.com/media/BErydK6VVsDlVIEW1Q/giphy.gif)
-#
-### -Dakar Enjoyer
-![](https://media.giphy.com/media/3o751TH8rGA8CyT1hS/giphy.gif)
-#
-### -Sport Shooter
-![](https://www.clay-shooting.com/wp-content/uploads/sites/19/2011/10/crossers-pair1.gif)
+### Motorcyclist. Always ride safe.
