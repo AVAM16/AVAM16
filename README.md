@@ -8,7 +8,3 @@
 ##### Enjoy being active and practising sports.
 ##### Made in Portugal
 #
-
-### Rally Enjoyer and Team Toyota
-![](https://media.giphy.com/media/dBQnOB1RBK2YKSNjN2/giphy-downsized-large.gif)
-### Motorcyclist. Always ride safe.
